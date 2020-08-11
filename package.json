@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "readline": "^1.3.0"
-  }
+  },
+  "name": "Rounds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/justinponch/Rounds",
+  "author": "<justinpontrella@gmail.com>",
+  "license": "MIT"
 }
